@@ -1,0 +1,8 @@
+name: Călin Sălăgean
+markdown: kramdown
+exclude: [Gemfile, Gemfile.lock]
+social:
+  github: dooma
+  twitter: calinutz96
+kramdown:
+  auto_ids: false
