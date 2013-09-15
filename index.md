@@ -15,6 +15,6 @@ where I finished a lot of tasks for multiple open source projects and
 I hope to take part this year, also.
 
 In case you want to tell me something interesting,
-you could find me on [GitHub](https://github.com/dooma) or [Twitter](https://twitter.com/calinutz96).
+you find me on [GitHub](https://github.com/dooma) or [Twitter](https://twitter.com/calinutz96).
 
 _Currently, I am not available for hiring or freelance work. Sorry!_
